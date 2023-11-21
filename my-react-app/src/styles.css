@@ -1,0 +1,19 @@
+.app {
+  text-align: center; /* Center the content within the app container */
+}
+.VideoPlayer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px; /* Add margin to separate the header from the video player */
+}
+
+/* Add the previously provided CSS for MultiVideoPlayer */
+.multi-video-player {
+  display: flex;
+}
+
+.video-player-wrapper {
+  margin-right: 50px; /* You can adjust the margin as needed */
+}
